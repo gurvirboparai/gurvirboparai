@@ -2,12 +2,11 @@
 
 Hey! I am Gurvir.
 
-* I am currently attending York University pursuing Information Technology.
+* I am currently attending university pursuing Information Technology.
 * I have a passion for graphic design and web design.
 * Day by day I continue to learn and improve on my Java, HTML, CSS, and Javascript skills as well as my graphic design.
 * Feel free to look around 
   * [My Website](gurvirfx.github.io) - Made using HTML, CSS, and Javascript.
-  * [My LinkedIn](https://www.linkedin.com/in/gurvirboparai/)
 
 ## Getting Started 
 
