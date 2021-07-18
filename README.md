@@ -16,8 +16,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install most of my programs
 
-```
-[VS Code](https://code.visualstudio.com/)
-Any Java IDE
-[Ready to Program Classes](http://compsci.ca/holtsoft/)
-```
+* [VS Code](https://code.visualstudio.com/)
+* Any Java IDE
+* [Ready to Program Classes](http://compsci.ca/holtsoft/)
