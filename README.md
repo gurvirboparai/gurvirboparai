@@ -6,7 +6,7 @@ Hey! I am Gurvir.
 * I have a passion for graphic design and web design.
 * Day by day I continue to learn and improve on my Java, HTML, CSS, and Javascript skills as well as my graphic design.
 * Feel free to look around 
-  * [My Website](https://gurvirfx.github.io/) - Made using HTML, CSS, and Javascript.
+  * [My Website](https://gurvirboparai.github.io/) - Made using HTML, CSS, and Javascript.
 
 ## Getting Started 
 
