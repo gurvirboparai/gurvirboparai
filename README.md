@@ -6,7 +6,7 @@ Hey! I am Gurvir.
 * I have a passion for graphic design and web design.
 * Day by day I continue to learn and improve on my web development skills as well as my graphic design.
 * Feel free to look around 
-  * [My Website](https://gurvirboparai.github.io/) - Made using HTML, CSS, and Javascript.
+  * [My Website](https://gurvirboparai.netlify.app/) - Made using ReactJS, Vite, TailwindCSS.
 
 ## Getting Started 
 
