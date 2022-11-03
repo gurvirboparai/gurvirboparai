@@ -4,7 +4,7 @@ Hey! I am Gurvir.
 
 * I am currently attending university pursuing Information Technology.
 * I have a passion for graphic design and web design.
-* Day by day I continue to learn and improve on my web development skills as well as my graphic design.
+* Day by day I continue to learn and improve on my software development skills and front end skills.
 * Feel free to look around 
   * [My Website](https://gurvirboparai.netlify.app/) - Made using ReactJS, Vite, TailwindCSS.
 
